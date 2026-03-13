@@ -1,3 +1,4 @@
+![Project status](https://img.shields.io/badge/status-in%20development-orange?style=for-the-badge)
 # Balashov-Clinic
 **Студент:** Балошов Д. В.  
 **Группа:** МО-32/1  
